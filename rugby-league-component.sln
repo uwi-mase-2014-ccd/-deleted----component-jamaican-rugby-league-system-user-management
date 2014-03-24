@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src", "RestService\src.csproj", "{145F1D71-923D-4C33-AC57-6BEF6B31429B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rugby-league-component", "RestService\rugby-league-component.csproj", "{145F1D71-923D-4C33-AC57-6BEF6B31429B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
